@@ -1,1 +1,1 @@
-module "telegram_login_verify"
+module github.com/AlexanderMatveev/telegram_login_verify
